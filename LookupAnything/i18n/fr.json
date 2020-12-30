@@ -8,7 +8,7 @@
     "generic.yesterday": "hier",
 
     // generic values
-    "generic.unknown": "unknown", // TODO
+    "generic.unknown": "inconnu",
 
     // generic field values
     "generic.percent": "{{percent}}%",
@@ -324,8 +324,8 @@
     // labels
     "crop.summary": "Culture",
     "crop.harvest": "Récolte",
-    "crop.fertilized": "Fertilized", // TODO
-    "crop.watered": "Watered", // TODO
+    "crop.fertilized": "Fertilisé",
+    "crop.watered": "Arrosé",
 
     // values
     "crop.summary.dead": "Cette culture est morte.",
@@ -644,7 +644,7 @@
 
     // values
     "tree.name.big-mushroom": "Grand champignon",
-    "tree.name.mahogany": "Mahogany Tree", // TODO
+    "tree.name.mahogany": "Acajou",
     "tree.name.maple": "Erable",
     "tree.name.oak": "Chêne",
     "tree.name.palm": "Palmier",
